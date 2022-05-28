@@ -1,0 +1,13 @@
+= Muavin
+
+In the turkish language, "muavin" is an assistant, an helper.
+
+Muavin is aiming to be the perfect app for people who needs a mix of GTD-like apps (like Everdo), Planning (like Todoist), privacy-oriented, local-first and selfhosted.
+It will help you Collect, Organize, Do and Log your tasks and projects.
+
+There will be several components : 
+
+* a web app built with Vue.js
+* a cli built with Rust
+* a mobile app
+
